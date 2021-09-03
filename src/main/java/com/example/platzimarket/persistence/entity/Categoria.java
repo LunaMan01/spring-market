@@ -12,6 +12,7 @@ public class Categoria {
     @Column(name = "id_categoria")
     private Integer idCategoria;
 
+    
     private String descripcion;
     private Boolean estado;
 
